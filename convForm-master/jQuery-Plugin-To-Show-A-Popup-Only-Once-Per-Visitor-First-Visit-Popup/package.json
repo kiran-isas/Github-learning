@@ -17,7 +17,7 @@
 		}
 	],
 	"dependencies": {
-		"jquery": "1"
+		"jquery": "3"
 	},
 	"description": "Shows a message to the user on their first visit to your page.",
 	"keywords": [
